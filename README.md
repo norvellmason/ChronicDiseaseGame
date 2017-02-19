@@ -3,7 +3,7 @@ An entry into Games4Health, which details the effect of chronic diseases upon an
 
 They player may die while playing, but if they live into old age they have won.
 
-## Jog List
+## Job List
 
 ### Mason
  * Art
